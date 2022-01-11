@@ -2,7 +2,7 @@
 # Lincase-chrome extension
 
 Lincase is a chrome extension which allows its users to save  
-links and make them accesseble for later usage.
+links and make them accessible for later usage.
 
 hmmm... a useful tool for procrastinators like me
 
