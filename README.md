@@ -13,7 +13,7 @@ it is a very basic extension which consists only 3 buttons
 3. Delete all -> double click this button to delete all the saved links 
 
 # links
-As the extension is not yet deployed in the chrome extension store
+As the extension is not yet deployed in the chrome extension store,
 you can download the zip file given below and manually upload the extension to your browser
 
 [click here](https://drive.google.com/uc?export=download&id=1K-YlQWKNzBE8b2cX_MPVBLETXPiYW4LK) to download the zip file  
