@@ -12,7 +12,7 @@ it is a very basic extension which consists only 3 buttons
 2. save tab  -> just with a click the extension saves the current tab you are  in right now
 3. Delete all -> double click this button to delete all the saved links 
 
-#screenshots
+# screenshots
 
 
 ![image](https://user-images.githubusercontent.com/71877477/148978554-ebc962f6-16fe-44f9-b666-5232e0900e42.png)
